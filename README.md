@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannguyenmessi1705&show_icons=true&locale=en" alt="dannguyenmessi1705" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannguyenmessi1705&" alt="dannguyenmessi1705" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dannguyenmessi1705&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <!---
 dannguyenmessi1705/dannguyenmessi1705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
