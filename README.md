@@ -20,7 +20,7 @@
 👋 Hi, I’m @dannguyenmessi1705
 </div>
 <div>
-👀 I’m interested in Web Development
+👀 I’m interested in Software Engineer
 </div>
 <div>
 🌱 I’m currently learning in PTIT
